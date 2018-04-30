@@ -1,9 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: Paul
-  email: paul@paul.com
+  body: A comment
+  user: one
+  post: one
 
 two:
-  name: Kyle
-  email: kyle@kyle.com
+  body: Another comment
+  user: two
+  post: two
