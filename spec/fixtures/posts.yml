@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: Post Title
+  body: Some text
+  user: one
+
+two:
+  title: Another post
+  body: Some different text
+  user: two
