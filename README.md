@@ -2,8 +2,6 @@
 
 # Ruby on Rails micro-reddit application to practice Rails models and associations
 
-This is the forms application for 
-[*The Odin Project - Rails Course: BUILDING WITH ACTIVE RECORD - Project 2*](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails).
 
 ## Getting started
 
@@ -34,3 +32,22 @@ $ rails server
 ```
 
 Open your browser at "localhost:3000"
+
+
+To run the RSpec test suite, first run:
+
+```
+$ rails db:seed ENV=test
+```
+
+Then run:
+
+```
+$ rspec
+```
+
+
+## Authors
+
+* **Kyle Lemon** - [jklemon17](https://github.com/jklemon17)
+* **Paul Rail** - [PolarisTLX](https://github.com/PolarisTLX)
